@@ -1,0 +1,5 @@
+map_name: 270BC_Tertiered
+games:
+- game_name: 270BC Tertiered
+  file_name: 270BC_tertiered.xml
+version: 0
